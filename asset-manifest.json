@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://rajeev-rgb.github.io/csb-x2k6r/static/css/main.5a7e98b5.chunk.css",
+    "main.js": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/main.37ca5e83.chunk.js",
+    "main.js.map": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/main.37ca5e83.chunk.js.map",
+    "runtime-main.js": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/runtime-main.6525ddc9.js",
+    "runtime-main.js.map": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/runtime-main.6525ddc9.js.map",
+    "static/js/2.3ce33be8.chunk.js": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/2.3ce33be8.chunk.js",
+    "static/js/2.3ce33be8.chunk.js.map": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/2.3ce33be8.chunk.js.map",
+    "static/js/3.94bebb63.chunk.js": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/3.94bebb63.chunk.js",
+    "static/js/3.94bebb63.chunk.js.map": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/3.94bebb63.chunk.js.map",
+    "index.html": "https://rajeev-rgb.github.io/csb-x2k6r/index.html",
+    "static/css/main.5a7e98b5.chunk.css.map": "https://rajeev-rgb.github.io/csb-x2k6r/static/css/main.5a7e98b5.chunk.css.map",
+    "static/js/2.3ce33be8.chunk.js.LICENSE.txt": "https://rajeev-rgb.github.io/csb-x2k6r/static/js/2.3ce33be8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6525ddc9.js",
+    "static/js/2.3ce33be8.chunk.js",
+    "static/css/main.5a7e98b5.chunk.css",
+    "static/js/main.37ca5e83.chunk.js"
+  ]
+}
